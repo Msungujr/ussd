@@ -1,4 +1,4 @@
-# MoCUSSD APP (Dial *384*5083# on the sandbox)
+# MoCUSSD APP 
 
 - How to setup USSD using Africa's Talking API[Africa's Talking API](docs.africastalking.com/ussd). 
 
