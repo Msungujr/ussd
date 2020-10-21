@@ -1,6 +1,6 @@
 # MoCUSSD APP 
 
-- How to setup USSD using Africa's Talking API[Africa's Talking API](docs.africastalking.com/ussd). 
+- How to setup USSD using Africa's Talking API [Africa's Talking API](docs.africastalking.com/ussd). 
 
 MoCUSSD APP Features                            
 
