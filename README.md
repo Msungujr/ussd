@@ -1,8 +1,8 @@
-# MoCUSSD APP 
+# USSD APP 
 
 - How to setup USSD using Africa's Talking API [Africa's Talking API](docs.africastalking.com/ussd). 
 
-MoCUSSD APP Features                            
+USSD APP Features                            
 
 | Viewing & Updating General Student Information                           | 
 | Accessing Student Coursework                                             |   
